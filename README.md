@@ -4,8 +4,7 @@ Premier jeu 3D basé sur Wolfenstein en utilisant un raycasting 2D. Réalisation
 
 
 <p align="center">
-  <img src="/screenshot/screen01.png" width="400px" height="400"</img> 
-    <img src="/screenshot/screen00.png" width="400px" height="400"</img> 
+  <img src="/screenshot/screen01.png" width="400px" height="400"</img>
     <img src="/screenshot/screen02.png" width="400px" height="400"</img>
     <img src="/screenshot/screen03.png" width="400px" height="400"</img>
     <img src="/screenshot/screen04.png" width="400px" height="400"</img> 
